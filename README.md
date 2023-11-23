@@ -1,6 +1,1 @@
-### Hi there 👋
-
-💬 Ask me about jQuery, Vue, Flutter
-
-📫 How to reach me: noreply@partsch.xyz
-
+![Andreas Partsch - Digital Solutions](https://andreas-partsch.de/assets/img/Logo_Color_Light@4x.png)
