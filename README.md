@@ -1,1 +1,1 @@
-![Andreas Partsch - Digital Solutions](https://andreas-partsch.de/assets/img/Logo_Color_Light@4x.png)
+![Andreas Partsch - Digital Solutions](https://andreas-partsch.de/_ipx/s_300x39/img/logo-andreas-partsch-digital-solutions__light.png)
